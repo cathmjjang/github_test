@@ -3,7 +3,7 @@
 
 ## 2016년 제1회 해커톤 대회 수상 작품 리스트
 
-<table class="tg" style="undefined;table-layout: fixed; width: 800px"><colgroup><col style="width: 50px"> <col style="width: 250px"> <col style="width: 500px"></colgroup> 
+<table class="tg" style="undefined;table-layout: fixed; width: 900px"><colgroup><col style="width: 50px"> <col style="width: 250px"> <col style="width: 600px"></colgroup> 
 
 <tbody>
 
