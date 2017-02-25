@@ -20,9 +20,9 @@
 
 <td class="tg-j0tj">1</td>
 
-<td class="tg-j0tj">설현내꺼</td>
+<td class="tg-j0tj">:설현내꺼</td>
 
-<td class="tg-j0tj">[졸업이수학점관리 프로그램](https://github.com/ehdqnddl/Graduate_Is_Mine)</td>
+<td class="tg-j0tj">:[졸업이수학점관리 프로그램](https://github.com/ehdqnddl/Graduate_Is_Mine)</td>
 
 </tr>
 
@@ -30,9 +30,9 @@
 
 <td class="tg-baqh">2</td>
 
-<td class="tg-baqh">CDS2</td>
+<td class="tg-baqh">:CDS2</td>
 
-<td class="tg-baqh">[세종 분실물 센터](https://github.com/rlagustlr677/Hackerton)</td>
+<td class="tg-baqh">:[세종 분실물 센터](https://github.com/rlagustlr677/Hackerton)</td>
 
 </tr>
 
