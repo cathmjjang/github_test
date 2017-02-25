@@ -3,7 +3,7 @@
 
 ## 2016년 제1회 해커톤 대회 수상 작품 리스트
 
-<table class="tg" style="undefined;table-layout: fixed; width: 900px"><colgroup><col style="width: 50px"> <col style="width: 250px"> <col style="width: 600px"></colgroup> 
+<table class="tg" style="undefined;table-layout: fixed; width: 1200px"><colgroup><col style="width: 50px"> <col style="width: 250px"> <col style="width: 900px"></colgroup> 
 
 <tbody>
 
@@ -172,7 +172,7 @@
 </table> <br> <br> <br>
 ## 2016년 2학기 오픈소스SW 공학 프로젝트 결과물
 
-<table class="tg" style="undefined;table-layout: fixed; width: 570px"><colgroup><col style="width: 58px"> <col style="width: 250px"> <col style="width: 262px"></colgroup> 
+<table class="tg" style="undefined;table-layout: fixed; width: 1200px"><colgroup><col style="width: 50px"> <col style="width: 250px"> <col style="width: 900px"></colgroup> 
 
 <tbody>
 
@@ -252,7 +252,7 @@
 
 ## 2016년 1학기 오픈소스SW 개론 프로젝트 결과물
 
-<table class="tg" style="undefined;table-layout: fixed; width: 570px"><colgroup><col style="width: 58px"> <col style="width: 250px"> <col style="width: 262px"></colgroup> 
+<table class="tg" style="undefined;table-layout: fixed; width: 1200px"><colgroup><col style="width: 50px"> <col style="width: 250px"> <col style="width: 900px"></colgroup> 
 
 <tbody>
 
