@@ -3,7 +3,7 @@
 
 ## 2016년 제1회 해커톤 대회 수상 작품 리스트
 
-<table class="tg" style="undefined;table-layout: fixed; width: 900px"><colgroup><col style="width: 50px"> <col style="width: 250px"> <col style="width: 600px"></colgroup> 
+<table class="tg" style="undefined;table-layout: fixed; width: 700px"><colgroup><col style="width: 50px"> <col style="width: 250px"> <col style="width: 400px"></colgroup> 
 
 <tbody>
 
@@ -249,7 +249,7 @@
 
 </tbody>
 
-</table> <br> <br> <br>
+</table><br> <br> <br>
 
 ## 2016년 1학기 오픈소스SW 개론 프로젝트 결과물
 
@@ -325,8 +325,8 @@
 
 <td class="tg-yw4l">[Piano Harmony +](https://univofsejong.github.io/SEJONG_OSS/)</td>
 
-</tr> 
+</tr>
 
 </tbody>
 
-</table> <br> <br> <br>
+</table><br> <br> <br>
