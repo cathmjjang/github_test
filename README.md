@@ -169,9 +169,9 @@
 
 </tbody>
 
-</table>
+</table> <br> <br> <br>
 
-## 오픈소스SW 공학 프로젝트 결과물
+## 2016년 2학기 오픈소스SW 공학 프로젝트 결과물
 
 <table class="tg" style="undefined;table-layout: fixed; width: 570px"><colgroup><col style="width: 58px"> <col style="width: 250px"> <col style="width: 262px"></colgroup> 
 
@@ -251,7 +251,7 @@
 
 </table>
 
-## 오픈소스SW 개론 프로젝트 결과물
+## 2016년 1학기 오픈소스SW 개론 프로젝트 결과물
 
 <table class="tg" style="undefined;table-layout: fixed; width: 570px"><colgroup><col style="width: 58px"> <col style="width: 250px"> <col style="width: 262px"></colgroup> 
 
