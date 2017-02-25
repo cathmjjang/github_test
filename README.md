@@ -249,7 +249,7 @@
 
 </tbody>
 
-</table>
+</table> <br> <br> <br>
 
 ## 2016년 1학기 오픈소스SW 개론 프로젝트 결과물
 
@@ -325,8 +325,8 @@
 
 <td class="tg-yw4l">[Piano Harmony +](https://univofsejong.github.io/SEJONG_OSS/)</td>
 
-</tr>
+</tr> 
 
 </tbody>
 
-</table>
+</table> <br> <br> <br>
