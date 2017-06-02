@@ -2,6 +2,7 @@
 
 
 ## 2016년 제1회 해커톤 대회 수상 작품 리스트
+<center>
 <table class="tg" style="undefined;table-layout: fixed; width: 1100px; border-collapse:collapse;border-spacing:0;border-color:#aabcfe;"><colgroup><col style="width: 55px"> <col style="width: 250px"> <col style="width: 750px"></colgroup> 
 
 <tbody>
@@ -169,6 +170,7 @@
 </tbody>
 
 </table><br> <br> <br>
+</center>
 
 ## 2016년 2학기 오픈소스SW 공학 프로젝트 결과물
 
